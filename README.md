@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Virappan-ops">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVirappan-ops&count_bg=%237F5AF0&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Virappan-ops&label=PROFILE+VIEWS&style=for-the-badge&color=7F5AF0&labelColor=0D1117" alt="Profile Views"/>
   </a>
 </p>
 
