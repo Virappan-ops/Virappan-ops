@@ -63,15 +63,15 @@ A smart flashcard generator that helps students revise faster using AI-generated
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Virappan-ops&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Virappan-ops&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virappan-ops&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Virappan-ops&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virappan-ops&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virappan-ops&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
