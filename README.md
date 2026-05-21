@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=1000&color=2CB67D&center=true&vCenter=true&width=800&lines=Building+AI-powered+Full+Stack+Projects;CSE+Student+specializing+in+AI+and+ML;Learning+DSA+%2B+MERN+Stack+for+Placements;Turning+Ideas+into+Real+World+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-powered+Full+Stack+Projects%3B7F5AF0;CSE+Student+specializing+in+AI+and+ML%3B2CB67D;Learning+DSA+%2B+MERN+Stack+for+Placements%3BF9D923;Turning+Ideas+into+Real+World+Products%3BFF7A59" />
 </p>
 
 <p align="center">
