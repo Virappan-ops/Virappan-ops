@@ -4,10 +4,11 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:7F5AF0,35:2CB67D,65:F9D923,100:FF7A59&section=header&text=Virappan%20Baralu&fontSize=46&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=AI%20and%20ML%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descSize=15&descAlign=50&descAlignY=58&textBg=false">
     
     <!-- Light theme ke liye image (Black font: fontColor=000000) -->
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:7F5AF0,35:2CB67D,65:F9D923,100:FF7A59&section=header&text=Virappan%20Baralu&fontSize=46&fontAlign=50&fontAlignY=38&fontColor=000000&desc=AI%20and%20ML%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descSize=15&descAlign=50&descAlignY=58&textBg=false">
+    
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:7F5AF0,35:2CB67D,65:F9D923,100:FF7A59&section=header&text=Virappan%20Baralu&fontSize=46&fontAlign=50&fontAlignY=38&fontColor=000000&desc=AI%20and%20ML%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descSize=15&descAlign=50&descAlignY=58&textBg=false">
     
     <!-- Fallback image (Agar koi device theme detect na kar paye) -->
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:7F5AF0,35:2CB67D,65:F9D923,100:FF7A59&section=header&text=Virappan%20Baralu&fontSize=46&fontAlign=50&fontAlignY=38&fontColor=000000&desc=AI%20and%20ML%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descSize=15&descAlign=50&descAlignY=58&textBg=false" />
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:7F5AF0,35:2CB67D,65:F9D923,100:FF7A59&section=header&text=Virappan%20Baralu&fontSize=46&fontAlign=50&fontAlignY=38&fontColor=000000&desc=AI%20and%20ML%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descSize=15&descAlign=50&descAlignY=58&textBg=false" />
   </picture>
 </p>
 
