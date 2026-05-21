@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Virappan-ops">
-    <img src="https://komarev.com/ghpvc/?username=Virappan-ops&label=PROFILE+VIEWS&style=for-the-badge&color=7F5AF0&labelColor=0D1117" alt="Profile Views"/>
+    <img src="https://visitcount.itsvg.in/api?id=Virappan-ops&label=PROFILE%20VIEWS&color=7F5AF0&icon=5&pretty=true" alt="Profile Views" />
   </a>
 </p>
 
@@ -77,8 +77,8 @@ A smart flashcard generator that helps students revise faster using dynamically 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Virappan-ops&show_icons=true&theme=transparent&hide_border=true&title_color=7F5AF0&text_color=b0b0b0&icon_color=2CB67D" height="175px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virappan-ops&layout=compact&theme=transparent&hide_border=true&title_color=7F5AF0&text_color=b0b0b0" height="175px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Virappan-ops&show_icons=true&theme=transparent&hide_border=true&title_color=7F5AF0&text_color=b0b0b0&icon_color=2CB67D&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virappan-ops&layout=compact&theme=transparent&hide_border=true&title_color=7F5AF0&text_color=b0b0b0&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
