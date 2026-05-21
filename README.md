@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-powered+Full+Stack+Projects;CSE+Student+specializing+in+AI+%26+ML;Learning+DSA+%2B+MERN+Stack+for+Placements;Turning+Ideas+into+Real+World+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-powered+Full+Stack+Projects;CSE+Student+specializing+in+AI+and+ML;Learning+DSA+%2B+MERN+Stack+for+Placements;Turning+Ideas+into+Real+World+Products" />
 </p>
 
 ---
@@ -58,29 +58,19 @@ A smart flashcard generator that helps students revise faster using AI-generated
 
 ---
 
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Progress
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Virappan-ops&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-C%2B%2B-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Gemini%20API-success?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Virappan-ops&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virappan-ops&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Virappan-ops&theme=tokyo-night&hide_border=true" />
-</p>
+- 🚀 Building AI-powered full-stack projects  
+- 💻 Practicing DSA using C++  
+- 🧠 Learning backend architecture and APIs  
+- 🎯 Preparing for software developer placements  
+- ⚡ Improving GitHub consistency and project quality  
 
 ---
 
