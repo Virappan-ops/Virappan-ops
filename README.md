@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Virappan-ops&label=PROFILE%20VIEWS&style=plastic&labelColor=24292e&color=2cb67d"/>
+  <a href="https://github.com/Virappan-ops">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVirappan-ops&count_bg=%237F5AF0&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
@@ -41,27 +43,26 @@ Currently working on improving my skills in:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,git,github,vscode,tailwind" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs&perline=6" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=express,mongodb,git,github,vscode,tailwind&perline=6" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 AI Productivity & Intelligence OS
-A premium AI-powered productivity platform with authentication, dashboard, AI tools, analytics, and future-ready architecture.
-
-**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, Gemini API
+### 🔹 AI Productivity & Intelligence OS (Ionix v2)
+A premium AI-powered productivity platform featuring a dynamic dashboard, smart notes, custom AI tools, and future-ready architecture.
+* **Tech Stack:** `React`, `Tailwind CSS`, `Node.js`, `Express`, `MongoDB`, `Gemini API`
 
 ---
 
 ### 🔹 AI-Powered Flashcards
-A smart flashcard generator that helps students revise faster using AI-generated questions and answers.
-
-**Tech Stack:** React, Node.js, Express, MongoDB, Gemini API
+A smart flashcard generator that helps students revise faster using dynamically AI-generated questions and answers.
+* **Tech Stack:** `React`, `Node.js`, `Express`, `MongoDB`, `Gemini API`
 
 ---
-
 
 ## ⚡ Developer Mindset
 
@@ -73,7 +74,16 @@ A smart flashcard generator that helps students revise faster using AI-generated
 
 ---
 
-## 📊 GitHub Progress
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Virappan-ops&show_icons=true&theme=transparent&hide_border=true&title_color=7F5AF0&text_color=b0b0b0&icon_color=2CB67D" height="175px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virappan-ops&layout=compact&theme=transparent&hide_border=true&title_color=7F5AF0&text_color=b0b0b0" height="175px" alt="Top Languages" />
+</p>
+
+---
+
+## 📊 Progress & Goals
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=for-the-badge" />
