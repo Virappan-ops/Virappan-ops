@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Virappan-ops&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Virappan-ops&label=VIEWS&style=flat-square&labelColor=0f172a&color=f9d923"/>
 </p>
-
 ## 👋 About Me
 
 Hi, I'm **Virappan Baralu** — a CSE student specializing in **Artificial Intelligence & Machine Learning**.
