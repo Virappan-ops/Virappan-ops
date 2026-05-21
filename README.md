@@ -96,9 +96,12 @@ A smart flashcard generator that helps students revise faster using dynamically 
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions City" width="100%" />
 </p>
 
+##
+
 <p align="center">
   <img src="space-shooter.gif" alt="GitHub Space Shooter Contribution Graph" width="100%" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
