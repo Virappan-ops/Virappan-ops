@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-powered+Full+Stack+Projects;CSE+Student+specializing+in+AI+and+ML;Learning+DSA+%2B+MERN+Stack+for+Placements;Turning+Ideas+into+Real+World+Products" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Virappan-ops&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 ---
 
 ## 👋 About Me
@@ -55,6 +58,18 @@ A premium AI-powered productivity platform with authentication, dashboard, AI to
 A smart flashcard generator that helps students revise faster using AI-generated questions and answers.
 
 **Tech Stack:** React, Node.js, Express, MongoDB, Gemini API
+
+---
+
+---
+
+## ⚡ Developer Mindset
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Scalable-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-Production%20Ready-2962FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-Software%20Developer%20Job-FF6D00?style=for-the-badge" />
+</p>
 
 ---
 
