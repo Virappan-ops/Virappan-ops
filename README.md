@@ -87,8 +87,6 @@ A smart flashcard generator that helps students revise faster using AI-generated
 
 ---
 
----
-
 ## 🏙️ My Contributions City
 
 <p align="center">
