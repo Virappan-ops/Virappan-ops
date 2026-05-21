@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Virappan%20Baralu&fontAlign=50&fontAlignY=38&desc=AI%20and%20ML%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlign=50&descAlignY=58&section=header&fontColor=000000&descSize=20&fontSize=55&textBg=false&rotate=0" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Virappan%20Baralu&fontAlign=50&fontAlignY=38&desc=AI%20and%20ML%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlign=50&descAlignY=62&section=header&fontColor=2b2b2b&descSize=20&fontSize=55&textBg=false&rotate=0&width=1000" />
 </p>
 
 <p align="center">
@@ -109,5 +109,5 @@ A smart flashcard generator that helps students revise faster using AI-generated
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=140&color=gradient&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=140&color=gradient&section=footer&width=1000" />
 </p>
