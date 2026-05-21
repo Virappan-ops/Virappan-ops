@@ -120,3 +120,7 @@ A smart flashcard generator that helps students revise faster using dynamically 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=90&color=0:7F5AF0,35:2CB67D,65:F9D923,100:FF7A59&section=footer" />
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
