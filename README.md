@@ -74,6 +74,14 @@ A smart flashcard generator that helps students revise faster using AI-generated
 
 ---
 
+---
+
+## 📈 Activity Graph 
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Virappan-ops&theme=tokyo-night&hide_border=true" /> </p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
