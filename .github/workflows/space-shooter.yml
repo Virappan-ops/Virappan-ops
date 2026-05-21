@@ -1,0 +1,36 @@
+name: Generate Space Shooter Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          # Yeh fetch-depth zaroori hai is action ke theek se kaam karne ke liye
+          fetch-depth: 2
+
+      - name: Generate Space Shooter Graph
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+          output-path: space-shooter.gif
+          strategy: random
+          fps: 40
+
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add space-shooter.gif
+          git diff-index --quiet HEAD || git commit -m "Updated Space Shooter Contribution Graph"
+          git push
