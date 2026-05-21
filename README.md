@@ -10,6 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=Virappan-ops&label=PROFILE%20VIEWS&style=plastic&labelColor=24292e&color=2cb67d"/>
 </p>
 
+---
+
 ## 👋 About Me
 
 Hi, I'm **Virappan Baralu** — a CSE student specializing in **Artificial Intelligence & Machine Learning**.
