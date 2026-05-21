@@ -1,0 +1,31 @@
+name: Generate Isometric Contributions Graph
+
+on:
+  # Har 24 ghante me automatically chalega
+  schedule:
+    - cron: "0 0 * * *"
+  # Aap isko manually bhi run kar sakte ho
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # 3D City Graph Generate karne ka main step
+      - name: Generate 3D City
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # Generated images ko aapki repo ki main/master branch me push karne ke liye
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A .
+          git diff-index --quiet HEAD || git commit -m "Generated 3D Isometric Calendar"
+          git push
