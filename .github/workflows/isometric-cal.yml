@@ -5,19 +5,20 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-# ISKO ADD KIYA HAI: Repository me push karne ke liye right permissions dena
 permissions:
   contents: write
+
+# GLOBAL ENVIRONMENT FORCED: Yeh saare steps ko Node 24 par upgrade kar dega
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Node 24 support ke liye v4 par update kiya
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Node 24 support ke liye latest v0.8.0 par update kiya
       - name: Generate 3D City
         uses: yoshi389111/github-profile-3d-contrib@0.8.0
         env:
